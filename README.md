@@ -6,20 +6,24 @@ You can find list of peices and their dedicated charachter here:
 ![peices](./list_of_peices.csv)
 
 ## How it works
-Here is the first piece, containing the following text in binary:
+Here is the first piece, containing the dedicated to:
 
 ```
-THE TRAGEDY OF HAMLET, PRINCE OF DENMARK\n
-\n
-by William Shakespeare\n
-\n
-\n
-SCENE\n
+Chen Kaige
 ```
 
-![sample](images/sample.png)
+The name is repeated with an space between.
+
+![sample](sample_f.png)
 
 The first row of the piece contains:
-T:'01010100'
-H:'01001000'
-E:'01000101'
+C: 01000011
+h: 01101000
+e: 01100101
+n: 01101110
+ : 00100000
+K: 01001011
+a: 01100001
+i: 01101001
+g: 01100111
+e: 01100101
