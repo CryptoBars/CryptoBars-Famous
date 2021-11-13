@@ -18,12 +18,21 @@ The name is repeated with an space between.
 
 The first row of the piece contains:
 C: 01000011
+
 h: 01101000
+
 e: 01100101
+
 n: 01101110
+
  : 00100000
+ 
 K: 01001011
+
 a: 01100001
+
 i: 01101001
+
 g: 01100111
+
 e: 01100101
